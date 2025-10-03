@@ -1,4 +1,4 @@
-# Painter Mini Project 🎨
+# Painter 🎨
 
 Prosty interaktywny projekt „Painter”, który pozwala użytkownikowi malować na siatce przy użyciu wybranych kolorów i zapisywać swoją pracę w przeglądarce dzięki `localStorage`.
 
@@ -55,3 +55,12 @@ painter/
 ## 📸 Demo
 
 [Spróbuj sam!](https://painter-project.netlify.app/)
+
+👤 Autor
+📧 idkowiaak@gmail.com 🌍 GitHub idkowiaak
+
+🧾 Licencja
+Projekt stworzony w celach edukacyjnych. Można dowolnie używać, rozwijać i udostępniać z podaniem autora. © 2025 @idkowiaak – All rights reserved.
+
+⭐ Jeśli Ci się podoba...
+Zostaw ⭐ na GitHubie – będzie mi bardzo miło!
