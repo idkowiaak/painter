@@ -56,11 +56,11 @@ painter/
 
 [Spróbuj sam!](https://painter-project.netlify.app/)
 
-👤 Autor
+## 👤 Autor
 📧 idkowiaak@gmail.com 🌍 GitHub idkowiaak
 
-🧾 Licencja
+## 🧾 Licencja
 Projekt stworzony w celach edukacyjnych. Można dowolnie używać, rozwijać i udostępniać z podaniem autora. © 2025 @idkowiaak – All rights reserved.
 
-⭐ Jeśli Ci się podoba...
+## ⭐ Jeśli Ci się podoba...
 Zostaw ⭐ na GitHubie – będzie mi bardzo miło!
